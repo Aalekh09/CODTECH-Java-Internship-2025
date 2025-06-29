@@ -12,7 +12,7 @@ Create a Java program to read, write, and modify text files.
 - Test cases or sample files if needed.
 
 ## Status
-_Work in progress_ ✅
+Completed✅
 
 ## Notes
 - Use `FileReader`, `FileWriter`, `BufferedReader`, `BufferedWriter` or `Files` APIs.
