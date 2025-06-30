@@ -1,16 +1,24 @@
-# Task 4 – Recommendation System
+# Task 4 - AI-Based Recommendation System
 
-**Objective:**  
-Build a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences.
+## Objective
+Build a simple recommendation system in Java that suggests items to users based on their preferences.
 
-## Deliverables
-- Java program for recommendation engine.
-- Sample dataset (CSV or in-memory).
-- Well-commented source code.
+## What was done
+- Created a Java program (`RecommendationSystem.java`) that reads user-item ratings from a CSV file.
+- The program recommends items to a user based on what similar users liked (collaborative filtering).
+- Included a sample data file (`sample_data.csv`).
+
+## How to run
+1. Open a terminal in the `Task4_RecommendationSystem` folder.
+2. Compile the program:
+   ```sh
+   javac RecommendationSystem.java
+   ```
+3. Run the program:
+   ```sh
+   java Task4_RecommendationSystem.RecommendationSystem
+   ```
+4. When asked, enter a user name (e.g., Alice, Bob, or Carol) to see recommendations.
 
 ## Status
-_Work in progress_ ✅
-
-## Notes
-- Try collaborative or content-based filtering.
-- Document your approach in this README.
+Completed.
