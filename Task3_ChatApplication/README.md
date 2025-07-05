@@ -30,3 +30,11 @@ Build a chat application in Java where multiple clients can chat with each other
 
 ## Status
 Completed.
+
+## Output
+```
+Enter your name: Alice
+[Alice]: Hello everyone!
+[Bob]: Hi Alice!
+[Carol]: Welcome, Alice!
+```

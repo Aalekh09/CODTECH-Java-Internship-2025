@@ -22,3 +22,9 @@ Build a simple recommendation system in Java that suggests items to users based 
 
 ## Status
 Completed.
+
+## Output
+```
+Enter user name for recommendations: Alice
+Recommended items for Alice: [Eraser]
+```

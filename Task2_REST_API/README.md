@@ -1,4 +1,3 @@
-
 ## Objective
 Create a Java program that fetches data from a public REST API and shows it in a simple format.
 
@@ -17,3 +16,12 @@ Create a Java program that fetches data from a public REST API and shows it in a
 
 ## Status
 Completed.
+
+## Output
+```
+--- Random User Details ---
+Name    : Mr John Doe
+Email   : johndoe@example.com
+Country : United States
+Phone   : (123)-456-7890
+```
